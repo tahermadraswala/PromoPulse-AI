@@ -1,8 +1,8 @@
-# VigyapanAI: Your AI-Powered Advertisement Generator
+# PromoPulse-AI: Your AI-Powered Advertisement Generator
 
 ## Overview
 
-**VigyapanAI** is an advanced advertisement generation platform powered by cutting-edge AI models. Our system delivers professional-quality, visually stunning, and engaging advertisements tailored to your brand's needs. With VigyapanAI, create impactful ads that resonate with your audience and drive results, all while maintaining brand consistency.
+**PromoPulse-AI** is an advanced advertisement generation platform powered by cutting-edge AI models. Our system delivers professional-quality, visually stunning, and engaging advertisements tailored to your brand's needs. With PromoPulse-AI, create impactful ads that resonate with your audience and drive results, all while maintaining brand consistency.
 
 ---
 
@@ -93,7 +93,7 @@
 
 ---
 
-## Why Choose VigyapanAI?
+## Why Choose PromoPulse-AI?
 
 ### 1. Automation Efficiency
 - Eliminate manual efforts with streamlined workflows.
@@ -122,7 +122,7 @@
 
 ## Example Output
 
-- **Demo Video:** [Watch Here](https://youtu.be/6xzC4GWnOhU)
+
 - **System Performance Metrics:**
   - Overall Score: **79/100**
   - **Category Breakdown:**
@@ -148,7 +148,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/VigyapanAI.git
+   git clone https://github.com/YourUsername/PromoPulse-AI.git
    ```
 2. Install the required dependencies:
    ```bash
@@ -164,11 +164,11 @@
 
 ## Additional Resources
 
-- **Demo Video:** [Watch Here](https://youtu.be/6xzC4GWnOhU)
+
 - **Contact Us:** Reach out via the Issues section for support or inquiries.
 
 ---
 
 **Create. Engage. Succeed.** 
-With VigyapanAI, elevate your advertising game to new heights.
+With PromoPulse-AI, elevate your advertising game to new heights.
 
