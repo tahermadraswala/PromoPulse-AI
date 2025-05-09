@@ -159,16 +159,3 @@
    ```bash
    python main.py
    ```
-
----
-
-## Additional Resources
-
-
-- **Contact Us:** Reach out via the Issues section for support or inquiries.
-
----
-
-**Create. Engage. Succeed.** 
-With PromoPulse-AI, elevate your advertising game to new heights.
-
