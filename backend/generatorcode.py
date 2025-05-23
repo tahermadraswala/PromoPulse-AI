@@ -62,7 +62,7 @@ class AdvertisementGenerator:
     """Main class for generating video advertisements."""
 
     # Hardcoded API key
-    API_KEY = "AIzaSyBDQfBKivNhofiw4_rqgQ46wMaf99XB6fM"
+    API_KEY = 
 
     # Predefined matching criteria - case-insensitive and trimmed
     MATCH_CRITERIA = {
@@ -116,7 +116,7 @@ class AdvertisementGenerator:
     def setup_ai(self):
         """Set up AI models and configurations."""
     # Hardcode the API key here
-        self.api_key = "AIzaSyBDQfBKivNhofiw4_rqgQ46wMaf99XB6fM"  # Replace with your actual API key
+        self.api_key =   # Replace with your actual API key
 
     # Ensure the API key is set
         if not self.api_key:
