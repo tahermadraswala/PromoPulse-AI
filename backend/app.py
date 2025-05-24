@@ -36,7 +36,7 @@ app.config['GENERATED_FOLDER'] = GENERATED_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 100 * 1024 * 1024  # 100MB max file size
 
 # Initialize the VideoAnalyzerPipeline
-pipeline = VideoAnalyzerPipeline(api_key="AIzaSyDM1fL_EbWfkuJB18KRYjbe-PY-6E4aHak")
+pipeline = VideoAnalyzerPipeline(api_key="")
 
 @app.route('/download-video/<path:video_url>')
 def download_video(video_url):
