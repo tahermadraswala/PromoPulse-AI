@@ -62,7 +62,7 @@ class AdvertisementGenerator:
     """Main class for generating video advertisements."""
 
     # Hardcoded API key
-    API_KEY = 
+    API_KEY = ""
 
     # Predefined matching criteria - case-insensitive and trimmed
     MATCH_CRITERIA = {
